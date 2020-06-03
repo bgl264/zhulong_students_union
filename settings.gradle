@@ -1,0 +1,5 @@
+include ':utils'
+include ':data'
+include ':bean'
+include ':app'
+rootProject.name = "zhulong_students_union"
